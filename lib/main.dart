@@ -83,12 +83,12 @@ class _MyAppState extends State<MyApp> {
     _getImage(imageFile);
   }
 
-  // void show() {
-  //   print('Answer the questions');
-  //   setState(() {
-  //     _questionIndex = _questionIndex + 1;
-  //   });
-  // }
+  void show() {
+    print('Answer the questions');
+    setState(() {
+      _questionIndex = _questionIndex + 1;
+    });
+  }
 
   // Future<void> _showDialogBox(BuildContext context) {
   //   return showDialog(
