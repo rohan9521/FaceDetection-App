@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "998461132055",
+    "project_id": "mlkitcomputervision",
+    "storage_bucket": "mlkitcomputervision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998461132055:android:cd8f4fe41dc0dd260ffb52",
+        "android_client_info": {
+          "package_name": "com.mycomp.newApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998461132055-3hoti7pl0b03uf0das9jh00g7gsptl3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5rXlHzjioTyGXbr6KUYCyRUxBeq2cE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998461132055-3hoti7pl0b03uf0das9jh00g7gsptl3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998461132055-lo8e1a3i0pi8f21u4hrigor94hibtem0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.computervision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
