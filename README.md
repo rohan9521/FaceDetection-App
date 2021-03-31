@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+1. Mobile app made using Flutter which can click images from the
+camera and can retrieve images from device storage and displays all
+the faces in the image.
+
+2. Made using flutter and firebase MLkit.
